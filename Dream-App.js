@@ -90,24 +90,6 @@ patientInfo.push(newPatient)                                     //Using Array -
 
 
 
-// must contain 8 characters , at least one number
-
-//Using data type - primitive - Symbole to give a unique Id to login to the app
-//const ID_KEY = Symbol('employeeId');d
-
-
-
-
-
-//Creating Array for doctors 
-// data type : create object to organize and maintain patients information
-
-      
-
-
-
-
-//The following step will allow the app to track current patients stay to provide real-time wait-time estimates for new arrivals
 
 
 
